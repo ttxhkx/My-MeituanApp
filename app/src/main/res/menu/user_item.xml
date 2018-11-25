@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/MyOrder"
+            android:title="我的订单"
+            ></item>
+        <item
+            android:id="@+id/Buy"
+            android:title="购买"
+            ></item>
+        <item
+            android:id="@+id/OthersOrder"
+            android:title="店铺订单"
+            ></item>
+        <item
+            android:id="@+id/exit"
+            android:title="退出"
+            ></item>
+        <item
+            android:id="@+id/cancel"
+            android:title="注销"
+            ></item>
+
+</menu>
